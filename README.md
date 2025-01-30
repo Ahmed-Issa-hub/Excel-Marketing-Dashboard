@@ -1,6 +1,4 @@
 # Excel-Marketing-Dashboard
 📊 Interactive Excel Marketing Dashboard – A data-driven dashboard analyzing Marketing performance using Excel, Pivot Tables, Pivot Charts and slicers.
 
-![Dashboard Screenshot]
-
-(Data/Main Dashboard.png) 
+![image alt]([Data/Main Dashboard.png](https://github.com/Ahmed-Issa-hub/Excel-Marketing-Dashboard/blob/main/Data/Main%20Dashboard.png?raw=true)) 
