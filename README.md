@@ -50,7 +50,7 @@
 
 | Main Dashboard | 
 
-![image alt](https://github.com/Ahmed-Issa-hub/Excel-Marketing-Dashboard/blob/main/Data/Main%20Dashboard.png?raw=true)
+![image alt]([https://github.com/Ahmed-Issa-hub/Excel-Marketing-Dashboard/blob/main/Data/Main%20Dashboard.png?raw=true](https://github.com/Ahmed-Issa-hub/Marketing-Campaign-Analysis/blob/main/Screeshots/Main%20Dashboard.png?raw=true))
 
 | Channel Performance | 
 
