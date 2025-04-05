@@ -1,6 +1,6 @@
-## 📌 Project Title & Overview
+### 📌 Project Title & Overview
 
-📊 Interactive Excel Marketing Dashboard – A data-driven dashboard analyzing Marketing performance using Excel, Pivot Tables, Pivot Charts and slicers.
+📊 This project analyzes multi-platform marketing campaign data to extract actionable insights using only Microsoft Excel. No code, just clean data analysis with pivot tables, charts, and dashboards.
 
 
 ![image alt](https://github.com/Ahmed-Issa-hub/Excel-Marketing-Dashboard/blob/main/Data/Main%20Dashboard.png?raw=true)
