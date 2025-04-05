@@ -16,27 +16,27 @@
    
             - Facebook led in total impressions and clicks.
             - Instagram had the highest conversion rate and best cost-per-conversion.
-            - Pinterest drove niche engagement, useful for targeted campaigns.
+            - Pinterest had lower clicks but surprisingly high engagement per click.
+            - Facebook campaigns had the highest cost per click and the highest cost per conversion with the least conversion amount, time to take action.
 
    **💻 Device Efficiency**
    
-            - Mobile had higher conversions, but Desktop delivered lower CPC overall.
+            - Desktop users contributed to more conversions and lower CPC overall.
             - Balanced budget across devices is key.
 
    **🌍 Geographic Breakdown**
    
-            - Top ROI cities: London, Manchester, and Bristol.
+            - Birmingham yielded the highest ROI and lowest spent amount, making it ideal for future budget allocation.
             - Use this to prioritize ad spend regionally.
 
    **⏳ Time Trends**
    
-            - Conversions peaked early in each campaign phase.
+            - Quarter 4 has the highest Conversion amount compared to Q2&Q3.
             - Recommend ramping budget at the beginning of each run.
 
    **❤️ Engagement Metrics**
    
-            - Carousel and Video ads outperformed Static ads in likes and shares.
-            - Facebook and Instagram generated most organic interactions.
+            - Facebook had the highest engagement score per impression.
 
 ---
 
@@ -48,10 +48,13 @@
 
 ### 📸 Sample Visuals
 
+| Main Dashboard | 
+
+![image alt](https://github.com/Ahmed-Issa-hub/Excel-Marketing-Dashboard/blob/main/Data/Main%20Dashboard.png?raw=true)
+
 | Channel Performance | 
 
 | ![Channel](screenshots/channel_performance_chart.png) | 
-
 ---
 
 ## ▶️ How to Use
