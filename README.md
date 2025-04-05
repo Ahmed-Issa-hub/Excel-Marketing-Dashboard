@@ -1,6 +1,6 @@
 ### 📌 Project Title & Overview
 
-    📊 This project analyzes multi-platform marketing campaign data to extract actionable insights using only Microsoft Excel. No code, just clean data analysis with pivot tables, charts, and dashboards.
+    📊 This project analyzes multi-platform marketing campaign data to extract actionable insights using only Microsoft Excel.
 
 ### 🎯 Objectives
 
