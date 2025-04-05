@@ -50,11 +50,14 @@
 
 | Main Dashboard | 
 
-![image alt](Screeshots/Main Dashboard.png)
+![Main Dashboard](https://github.com/Ahmed-Issa-hub/Marketing-Campaign-Analysis/blob/main/Screeshots/Main%20Dashboard.png?raw=true)
 
 | Channel Performance | 
 
-| ![Channel](screenshots/channel_performance_chart.png) | 
+| ![conversion by channel](https://github.com/Ahmed-Issa-hub/Marketing-Campaign-Analysis/blob/main/Screeshots/conversion%20by%20channel.png?raw=true) | 
+
+| ![conversation and spent over time](https://github.com/Ahmed-Issa-hub/Marketing-Campaign-Analysis/blob/main/Screeshots/conversation%20and%20spent%20over%20time.png?raw=true) | 
+
 ---
 
 ## ▶️ How to Use
