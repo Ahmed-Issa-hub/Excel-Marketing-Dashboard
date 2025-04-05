@@ -19,18 +19,22 @@
             - Pinterest drove niche engagement, useful for targeted campaigns.
 
    **💻 Device Efficiency**
+   
             - Mobile had higher conversions, but Desktop delivered lower CPC overall.
             - Balanced budget across devices is key.
 
    **🌍 Geographic Breakdown**
+   
             - Top ROI cities: London, Manchester, and Bristol.
             - Use this to prioritize ad spend regionally.
 
    **⏳ Time Trends**
+   
             - Conversions peaked early in each campaign phase.
             - Recommend ramping budget at the beginning of each run.
 
    **❤️ Engagement Metrics**
+   
             - Carousel and Video ads outperformed Static ads in likes and shares.
             - Facebook and Instagram generated most organic interactions.
 
