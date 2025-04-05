@@ -13,11 +13,12 @@
 ### 🔍 Key Insights
 
    _📈 Channel Performance_
+   
             - Facebook led in total impressions and clicks.
             - Instagram had the highest conversion rate and best cost-per-conversion.
             - Pinterest drove niche engagement, useful for targeted campaigns.
 
-       ### 💻 Device Efficiency
+    💻 Device Efficiency
             - Mobile had higher conversions, but Desktop delivered lower CPC overall.
             - Balanced budget across devices is key.
 
