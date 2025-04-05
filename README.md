@@ -62,17 +62,9 @@
 
 ## ▶️ How to Use
 
-1. Open the Excel file in `analysis/Marketing Campaign Analysis Dataset.xlsx`
-2. Navigate through the tabs:
-   - `Pivot_Channels`, `Pivot_Devices`, `Geo_Analysis`, `Time_Trends`, etc.
+1. Open the Excel file in `Data/Marketing Campaign Analysis Dataset.xlsx`
+2. Navigate through the tabs
 3. Interact with slicers and filters to dynamically view data
-4. Explore insights in `reports/Summary_Report.md` or `.pptx` format
-
-
-
-
-![image alt](https://github.com/Ahmed-Issa-hub/Excel-Marketing-Dashboard/blob/main/Data/Main%20Dashboard.png?raw=true)
-
 
 
 
